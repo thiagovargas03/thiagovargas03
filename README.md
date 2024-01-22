@@ -3,7 +3,7 @@
 
 - 🌱 Me encuentro aprendiendo **JavaScript y Python**
 
-- 💬 Preguntame sobre **SQL,Java,HTML,CSS,C#,CSS**
+- 💬 Preguntame sobre **SQL,Java,HTML,CSS,C#**
 
 - 📫 Contacto **vargas.thiagoj.03@gmail.com**
 
