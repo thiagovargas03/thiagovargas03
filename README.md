@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Thiago Vargas</h1>
 <h3 align="center">Estudiante de Lic. En Ciencias de la Computacion</h3>
 
-- 🌱 Me encuentro aprendiendo **JavaScript y Python**
+- 🌱 Me encuentro aprendiendo **C# y Python**
 
 - 💬 Preguntame sobre **SQL,Java,HTML,CSS,C#**
 
