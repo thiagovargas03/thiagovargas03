@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img align="" src="https://www.oogaboogastore.com/img/gifs/catbox.gif">, im Thiago</h1>
+<h1 align="center">Hi <img align="" src="https://www.oogaboogastore.com/img/gifs/catbox.gif">, I'm Thiago</h1>
 
 <h3 align="center"> 
   <img align="center" height="55" src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif"> 
